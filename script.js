@@ -1,4 +1,3 @@
-'use strict'
 const clockContainer = document.querySelector(".clock-container");
 const dateContainer = document.querySelector(".date-container");
 const weekDays = [
